@@ -1,3 +1,3 @@
 # MarathonTestPackage
 
-A description of this package.
+This package is only used for [Marathon's](https://github.com/johnsundell/marathon) tests.
